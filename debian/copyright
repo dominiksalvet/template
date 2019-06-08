@@ -3,7 +3,7 @@ Upstream-Name: template
 Upstream-Contact: Dominik Salvet <dominik.salvet@gmail.com>
 Source: https://github.com/dominiksalvet/template
 
-Files: README.md CONTRIBUTING.md
+Files: README.md CONTRIBUTING.md SECURITY.md
 Copyright: Copyright 2019 Dominik Salvet
 License: MIT
 
