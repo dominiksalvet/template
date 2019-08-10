@@ -34,6 +34,6 @@ Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md
 
 ## License
 
-Licensing policy of template is compliant with [REUSE Practices](https://reuse.software/practices/2.0/).
+Licensing policy of template is compliant with [REUSE Specification](https://reuse.software/spec/).
 
 The preferred license is the **MIT License** as stated in the [*LICENSE.txt*](LICENSE.txt) file.
