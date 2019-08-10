@@ -1,6 +1,6 @@
 # Template
 
-[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
+[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software)
 [![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Build Status](https://travis-ci.com/dominiksalvet/template.svg?branch=master)](https://travis-ci.com/dominiksalvet/template)
 
