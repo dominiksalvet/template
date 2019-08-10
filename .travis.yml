@@ -14,5 +14,5 @@ jobs:
       name: Licensing
       services: docker
       install: docker pull fsfe/reuse:latest
-      before_script: docker run --name reuse -v ${TRAVIS_BUILD_DIR}:/repo fsfe/reuse /bin/sh -c "cd /repo; reuse --version"
-      script: docker run --name reuse -v ${TRAVIS_BUILD_DIR}:/repo fsfe/reuse /bin/sh -c "cd /repo; reuse lint"
+      before_script: docker run fsfe/reuse reuse --version
+      script: docker run -v "$TRAVIS_BUILD_DIR":/repo fsfe/reuse sh -c 'cd /repo && reuse lint'
