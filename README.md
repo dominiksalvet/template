@@ -1,6 +1,5 @@
 # Template
 
-[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software)
 [![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Build Status](https://travis-ci.com/dominiksalvet/template.svg?branch=master)](https://travis-ci.com/dominiksalvet/template)
 
@@ -34,6 +33,4 @@ Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md
 
 ## License
 
-Licensing policy of template is compliant with [REUSE Specification](https://reuse.software/spec/).
-
-The preferred license is the **MIT License** as stated in the [*MIT.txt*](LICENSES/MIT.txt) file.
+This project is licensed under [the MIT license](LICENSE.txt).
