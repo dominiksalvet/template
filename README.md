@@ -33,4 +33,4 @@ Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md
 
 ## License
 
-This project is licensed under [the MIT license](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE.txt).
