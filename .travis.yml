@@ -3,12 +3,9 @@
 # github.com/dominiksalvet/template
 #-------------------------------------------------------------------------------
 
-os: linux
-dist: xenial
 language: minimal
 
 jobs:
   include:
-    - stage: Stage
-      name: Name
+    - stage: stage
       script: true
