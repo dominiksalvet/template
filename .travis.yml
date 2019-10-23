@@ -7,5 +7,10 @@ language: minimal
 
 jobs:
   include:
-    - stage: stage
+    - stage: stage 1
       script: true
+    - script: true
+
+    - stage: stage 2
+      script: true
+    - script: true
