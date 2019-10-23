@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to improve this project
+about: Create a report to improve template
 title: ''
 labels: bug
 assignees: dominiksalvet
@@ -8,7 +8,7 @@ assignees: dominiksalvet
 ---
 
 **Environment**
-State installed version of this project and your OS information.
+State installed version of template and your OS information.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
