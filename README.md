@@ -1,7 +1,7 @@
 # Template
 
-[![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Build Status](https://travis-ci.com/dominiksalvet/template.svg?branch=master)](https://travis-ci.com/dominiksalvet/template)
+[![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 > Template for generating new repositories.
 
