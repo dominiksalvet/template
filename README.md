@@ -33,4 +33,4 @@ Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md
 
 ## License
 
-The template project is licensed under the [MIT License](LICENSE.txt).
+The template project is licensed under the [MIT License](LICENSE).
