@@ -1,0 +1,30 @@
+#-------------------------------------------------------------------------------
+# Copyright 2019 Dominik Salvet
+# github.com/dominiksalvet/template
+#-------------------------------------------------------------------------------
+
+name: CI
+on: push
+
+jobs:
+  Job 1:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Step 1
+      run: echo 'Job 1, Step 1'
+      
+    - name: Step 2
+      run: echo 'Job 1, Step 2'
+
+  Job 2:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Step 1
+      run: echo 'Job 2, Step 1'
+
+    - name: Step 2
+      run: echo 'Job 2, Step 2'
