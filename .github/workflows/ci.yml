@@ -13,10 +13,10 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Step1
-      run: echo 'Job1, Step1'
+      run: echo 'Job1 Step1'
       
     - name: Step2
-      run: echo 'Job1, Step2'
+      run: echo 'Job1 Step2'
 
   Job2:
     runs-on: ubuntu-latest
@@ -24,7 +24,7 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Step1
-      run: echo 'Job2, Step1'
+      run: echo 'Job2 Step1'
 
     - name: Step2
-      run: echo 'Job2, Step2'
+      run: echo 'Job2 Step2'
