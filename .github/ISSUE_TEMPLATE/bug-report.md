@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to improve <project>
 title: ''
 labels: bug
-assignees: <author>
+assignees: <username>
 ---
 
 **Environment**

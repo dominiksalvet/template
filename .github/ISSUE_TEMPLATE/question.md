@@ -3,7 +3,7 @@ name: Question
 about: Ask a question about <project>
 title: <question>
 labels: question
-assignees: <author>
+assignees: <username>
 ---
 
 **Additional context**
