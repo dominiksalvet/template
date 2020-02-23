@@ -10,7 +10,8 @@ jobs:
   Job1:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - name: Checkout commit
+      uses: actions/checkout@v2
 
     - name: Step1
       run: echo 'Job1 Step1'
@@ -21,7 +22,8 @@ jobs:
   Job2:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - name: Checkout commit
+      uses: actions/checkout@v2
 
     - name: Step1
       run: echo 'Job2 Step1'
