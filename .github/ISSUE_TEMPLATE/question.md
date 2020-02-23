@@ -1,11 +1,10 @@
 ---
 name: Question
-about: Ask a question about template
-title: ''
+about: Ask a question about <project>
+title: <question>
 labels: question
 assignees: dominiksalvet
-
 ---
 
-**What is your question?**
-Ask a question and provide as much relevant information as possible.
+**Additional context**
+Add any additional context to the question.

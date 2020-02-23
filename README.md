@@ -1,9 +1,9 @@
-# Template
+# \<project\>
 
 [![CI status](https://github.com/dominiksalvet/template/workflows/CI/badge.svg)](https://github.com/dominiksalvet/template/commits)
 [![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
-> Template for generating new GitHub repositories.
+> Short description.
 
 Long description.
 
@@ -33,4 +33,4 @@ Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md
 
 ## License
 
-The template project is licensed under the [MIT License](LICENSE).
+\<project\> is licensed under the [MIT License](LICENSE).
