@@ -29,8 +29,8 @@ Example content.
 
 ## Contributing
 
-Do you want to contribute? Do you have any questions? Then the [*CONTRIBUTING.md*](CONTRIBUTING.md) file is here for you.
+Do you want to contribute? Do you have any questions? Then the [*contributing.md*](contributing.md) file is here for you.
 
 ## License
 
-\<project\> is licensed under the [MIT License](LICENSE).
+\<project\> is licensed under the [MIT License](license).
