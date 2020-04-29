@@ -12,6 +12,7 @@ Long description.
 * [Install](#install)
 * [Usage](#usage)
   * [Example](#example)
+* [Questions](#questions)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -27,9 +28,13 @@ Usage content.
 
 Example content.
 
+## Questions
+
+If you have any questions, you can find out how to get them answered in [*support.md*](support.md) file.
+
 ## Contributing
 
-Do you want to contribute? Do you have any questions? Then the [*contributing.md*](contributing.md) file is here for you.
+Do you want to contribute somehow? Then [*contributing.md*](contributing.md) file is here for you.
 
 ## License
 
