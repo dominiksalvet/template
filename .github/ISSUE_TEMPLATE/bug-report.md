@@ -7,7 +7,7 @@ assignees: <username>
 ---
 
 **Environment**
-State <project> version and OS information.
+State \<project\> version and OS information.
 
 **Description**
 Describe the bug.
