@@ -7,7 +7,7 @@ The development of \<project\> is published on [this website](https://github.com
 If you have any suggestions or bug reports for \<project\>, follow these steps:
 
 1. Make sure the same is not already reported in [issues](https://github.com/dominiksalvet/template/issues).
-2. Open a [new issue](https://github.com/dominiksalvet/template/issues/new/choose).
+2. Open a [new issue](https://github.com/dominiksalvet/template/issues/new/choose). Choose an appropriate issue type.
 
 ## Pull requests
 
