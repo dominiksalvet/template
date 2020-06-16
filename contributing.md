@@ -9,7 +9,7 @@ If you have any suggestions or bug reports for \<project\>, follow these steps:
 1. Make sure the same is not already reported in [issues](https://github.com/dominiksalvet/template/issues).
 2. Open a [new issue](https://github.com/dominiksalvet/template/issues/new/choose). Choose an appropriate issue type.
 
-## Pull requests
+## Pull Requests
 
 If you want to contribute directly, it may be a good idea to [create an issue](https://github.com/dominiksalvet/template/issues/new/choose) first to discuss it. Then follow the steps:
 
