@@ -8,19 +8,19 @@ on: [push, pull_request]
 
 jobs:
   Job1:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: Checkout commit
       uses: actions/checkout@v2
 
     - name: Step1
       run: echo 'Job1 Step1'
-      
+
     - name: Step2
       run: echo 'Job1 Step2'
 
   Job2:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: Checkout commit
       uses: actions/checkout@v2
