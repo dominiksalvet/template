@@ -7,8 +7,7 @@
 > 5. Replace `<author>` and `<year>` occurrences.
 > 6. Replace `<project>` and `\<project\>` occurrences.
 > 7. Replace `<username>` occurrences.
-> 8. Replace `\<email\>` occurrences.
-> 9. Delete this preamble.
+> 8. Delete this preamble.
 
 # \<project\>
 
