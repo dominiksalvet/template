@@ -1,4 +1,4 @@
-> **Guide:**
+> **How to use:**
 >
 > 1. Sign in to GitHub.
 > 2. Click to *Use this template* button above.
