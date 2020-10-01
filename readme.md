@@ -12,20 +12,10 @@
 # \<project\>
 
 [![CI status](https://github.com/dominiksalvet/template/workflows/CI/badge.svg)](https://github.com/dominiksalvet/template/actions)
-[![standard-readme compliant](https://img.shields.io/badge/readme_style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 > Short description.
 
 Long description.
-
-## Table of Contents
-
-* [Install](#install)
-* [Usage](#usage)
-  * [Example](#example)
-* [Questions](#questions)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Install
 
@@ -39,14 +29,8 @@ Usage content.
 
 Example content.
 
-## Questions
+## Useful Resources
 
-If you have any questions, you can find out how to get them answered in [support.md](support.md) file.
-
-## Contributing
-
-Do you want to contribute somehow? Then [contributing.md](contributing.md) file is here for you.
-
-## License
-
-\<project\> is licensed under the [MIT License](license).
+* [support.md](support.md) – questions, answers, help
+* [contributing.md](contributing.md) – how to get involve
+* [license](license) – author and license
