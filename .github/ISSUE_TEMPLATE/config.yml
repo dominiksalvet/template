@@ -1,0 +1,9 @@
+#-------------------------------------------------------------------------------
+# Copyright <year> <author>
+# https://github.com/dominiksalvet/template
+#-------------------------------------------------------------------------------
+
+contact_links:
+- name: Discussions
+  url: https://github.com/dominiksalvet/template/discussions
+  about: Please ask and answer questions here
