@@ -25,9 +25,9 @@ Install content.
 
 Usage content.
 
-### Example
+### Examples
 
-Example content.
+Examples content.
 
 ## Useful Resources
 
