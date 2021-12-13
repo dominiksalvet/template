@@ -13,9 +13,7 @@
 
 [![CI status](https://github.com/dominiksalvet/template/workflows/CI/badge.svg)](https://github.com/dominiksalvet/template/actions)
 
-> Short description.
-
-Long description.
+Description content.
 
 ## Install
 
